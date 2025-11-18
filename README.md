@@ -7,7 +7,15 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=14d8c1&center=true&vCenter=true&multiline=true&width=720&height=50&lines=Hi%2C+This+is+Saifur+Rahman+Chowdhury+here!+I+am+a+Full+Stack+Web+Developer.+Open+Source+Contributor.+Welcome+to+my+GitHub+Profile!"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=14d8c1&center=true&vCenter=true&multiline=true&width=720&height=50&lines=Hi%2C+This+is+Saifur+Rahman+Chowdhury+here!"
+    alt="Typing animation"
+  />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=14d8c1&center=true&vCenter=true&multiline=true&width=720&height=50&lines=a+Full+Stack+Web+Developer+and+Open+Source+Contributor."
+    alt="Typing animation"
+  />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=14d8c1&center=true&vCenter=true&multiline=true&width=720&height=50&lines=Welcome+to+my+GitHub+Profile!"
     alt="Typing animation"
   />
 </p>
