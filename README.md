@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/SDhyZvCF/banner-image.png" alt="Saifur Rahman Chowdhury Github Banner" width="100%"/>
+  <img src="https://i.ibb.co.com/bggcLskY/banner-image.png" alt="Saifur Rahman Chowdhury Github Banner" width="100%"/>
 </p>
 <h1 align="center">Saifur Rahman Chowdhury</h1>
 <h3 align="center">Full Stack Web Developer</h3>
