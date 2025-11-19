@@ -58,17 +58,16 @@ Working on real-world projects that push my skills
 Writing clean, readable code
 
 ## 📫 Reach Me
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chysaifurrahmanbd@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saifu25saif/) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/saifu25saif) 
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/saifu25saif) 
+| Email | LinkedIn | X | Behance|
+|-------|----------|---|---------|
+| [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chysaifurrahmanbd@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saifu25saif/) | [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/saifu25saif)  |  [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/saifu25saif) |
 
 
 
 ## ⚡ Stats ⚡
 | Top Languages | GitHub Stats | GitHub Streak |
 |:---:|:---:|:---:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saifurrahmanctg&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saifurrahmanctg&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saifurrahmanctg&theme=transparent&hide_border=true) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saifurrahmanctg&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saifurrahmanctg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saifurrahmanctg&theme=transparent&hide_border=true) |
 
 
 <!--- My Contribution Graph -->
