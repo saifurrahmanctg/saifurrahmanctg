@@ -60,7 +60,7 @@ Writing clean, readable code
 ## 📫 Reach Me
 | Email | LinkedIn | X | Behance|
 |-------|----------|---|---------|
-| [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chysaifurrahmanbd@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saifu25saif/) | [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/saifu25saif)  |  [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/saifu25saif) |
+| [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chysaifurrahmanbd@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifu25saif/) | [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/saifu25saif)  |  [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/saifu25saif) |
 
 
 
