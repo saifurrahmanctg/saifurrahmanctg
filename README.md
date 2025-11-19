@@ -17,73 +17,52 @@
   📍 Chattogram, Bangladesh &nbsp; | &nbsp; ✉️ <a href="mailto:chysaifurrahmanbd@gmail.com">chysaifurrahmanbd@gmail.com</a>
 </p>
 
-🚀 About Me
+## 🚀 About Me
 
 I’m a budding Full-Stack Web Developer currently learning and building through Programming Hero. I love turning ideas into functional, user-friendly web experiences. My journey started with the fundamentals of the web, and now I’m diving deeper into modern frameworks and backend technologies.
 
 🧩 What I Work With
 
 Frontend:
-
 HTML5, CSS3, JavaScript (ES6+)
-
 Tailwind CSS + DaisyUI
-
 React, React Router
 
 Backend & Database:
-
 Node.js, Express.js
-
 MongoDB (CRUD, Aggregations, Mongoose)
 
 Other Skills:
-
 REST API development
-
 Component-based architecture
-
 Authentication & Authorization
-
 Git & GitHub
 
 Deployment (Vercel, Netlify, Render, etc.)
 
 🎯 What I’m Focusing On
-
 Building scalable MERN applications
-
 Improving UI/UX with reusable components
-
 Learning advanced React patterns
-
 Strengthening backend architecture and database design
 
 🌱 Currently Learning
-
 Authentication workflows (JWT, OAuth)
-
 State management (Context API, exploring Redux)
-
 API security and performance optimization
 
 💡 I Love
-
 Creating smooth, responsive interfaces
-
 Exploring new tools and frameworks
-
 Working on real-world projects that push my skills
-
 Writing clean, readable code
 
-📫 Reach Me
+## 📫 Reach Me
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chysaifurrahmanbd@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saifu25saif/) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/saifu25saif) 
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/saifu25saif) 
 
-Email: your email here
-
-LinkedIn: your LinkedIn here
-
-Portfolio: your portfolio link here (if any)
 
 
 ## ⚡ Stats ⚡
