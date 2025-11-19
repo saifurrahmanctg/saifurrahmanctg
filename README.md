@@ -41,27 +41,29 @@ Git & GitHub
 Deployment (Vercel, Netlify, Render, etc.)
 
 🎯 What I’m Focusing On
-Building scalable MERN applications
-Improving UI/UX with reusable components
-Learning advanced React patterns
-Strengthening backend architecture and database design
+- Building scalable MERN applications
+- Improving UI/UX with reusable components
+- Learning advanced React patterns
+- Strengthening backend architecture and database design
 
 🌱 Currently Learning
-Authentication workflows (JWT, OAuth)
-State management (Context API, exploring Redux)
-API security and performance optimization
+- Authentication workflows (JWT, OAuth)
+- State management (Context API, exploring Redux)
+- API security and performance optimization
 
 💡 I Love
-Creating smooth, responsive interfaces
-Exploring new tools and frameworks
-Working on real-world projects that push my skills
-Writing clean, readable code
+- Creating smooth, responsive interfaces
+- Exploring new tools and frameworks
+- Working on real-world projects that push my skills
+- Writing clean, readable code
 
 ## 📫 Reach Me
-| Email | LinkedIn | X | Behance|
-|-------|----------|---|---------|
-| [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chysaifurrahmanbd@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifu25saif/) | [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/saifu25saif)  |  [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/saifu25saif) |
-
+| Medium | Media |
+|-------|----------|
+| Email | [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chysaifurrahmanbd@gmail.com) |
+| LinkedIn | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifu25saif/) |
+| X (Twitter) |  [![X (Twitter)](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/saifu25saif)  |
+| Behance | [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/saifu25saif) |
 
 
 ## ⚡ Stats ⚡
