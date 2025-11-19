@@ -6,18 +6,9 @@
 <h3 align="center">Full Stack Web Developer</h3>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=14d8c1&center=true&vCenter=true&multiline=true&width=720&height=50&lines=Hi%2C+This+is+Saifur+Rahman+Chowdhury+here!"
-    alt="Typing animation"
-  />
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=14d8c1&center=true&vCenter=true&multiline=true&width=720&height=50&lines=a+Full+Stack+Web+Developer+and+Open+Source+Contributor."
-    alt="Typing animation"
-  />
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=14d8c1&center=true&vCenter=true&multiline=true&width=720&height=50&lines=Welcome+to+my+GitHub+Profile!"
-    alt="Typing animation"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Saifur+Rahman+Chowdhury!;a+Full+Stack+Web+Developer;and+Open+Source+Contributor.;Welcome+to+my+GitHub+Profile!" alt="Typing SVG">
+  </br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
 </p>
 
 <p align="center">
