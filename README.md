@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=saifurrahmanctg&style=for-the-badge)
+
 <p align="center">
   <img src="https://i.ibb.co.com/bggcLskY/banner-image.png" alt="Saifur Rahman Chowdhury GitHub Banner" width="100%"/>
 </p>
@@ -15,8 +17,84 @@
   📍 Chattogram, Bangladesh &nbsp; | &nbsp; ✉️ <a href="mailto:chysaifurrahmanbd@gmail.com">chysaifurrahmanbd@gmail.com</a>
 </p>
 
+🚀 About Me
+
+I’m a budding Full-Stack Web Developer currently learning and building through Programming Hero. I love turning ideas into functional, user-friendly web experiences. My journey started with the fundamentals of the web, and now I’m diving deeper into modern frameworks and backend technologies.
+
+🧩 What I Work With
+
+Frontend:
+
+HTML5, CSS3, JavaScript (ES6+)
+
+Tailwind CSS + DaisyUI
+
+React, React Router
+
+Backend & Database:
+
+Node.js, Express.js
+
+MongoDB (CRUD, Aggregations, Mongoose)
+
+Other Skills:
+
+REST API development
+
+Component-based architecture
+
+Authentication & Authorization
+
+Git & GitHub
+
+Deployment (Vercel, Netlify, Render, etc.)
+
+🎯 What I’m Focusing On
+
+Building scalable MERN applications
+
+Improving UI/UX with reusable components
+
+Learning advanced React patterns
+
+Strengthening backend architecture and database design
+
+🌱 Currently Learning
+
+Authentication workflows (JWT, OAuth)
+
+State management (Context API, exploring Redux)
+
+API security and performance optimization
+
+💡 I Love
+
+Creating smooth, responsive interfaces
+
+Exploring new tools and frameworks
+
+Working on real-world projects that push my skills
+
+Writing clean, readable code
+
+📫 Reach Me
+
+Email: your email here
+
+LinkedIn: your LinkedIn here
+
+Portfolio: your portfolio link here (if any)
 
 
+## ⚡ Stats ⚡
+| Top Languages | GitHub Stats | GitHub Streak |
+|:---:|:---:|:---:|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saifurrahmanctg&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saifurrahmanctg&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saifurrahmanctg&theme=transparent&hide_border=true) |
+
+
+<!--- My Contribution Graph -->
+## 🙌 My Contributions 🙌
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saifurrahmanctg&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 <!--
 **saifurrahmanctg/saifurrahmanctg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
