@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=saifurrahmanctg&style=for-the-badge)
 
 <p align="center">
-  <img src="https://i.ibb.co.com/bggcLskY/banner-image.png" alt="Saifur Rahman Chowdhury GitHub Banner" width="100%"/>
+  <img src="https://github.com/saifurrahmanctg/saifurrahmanctg/blob/main/cover-photo.png?raw=true" alt="Saifur Rahman Chowdhury GitHub Banner" width="100%"/>
 </p>
 
 <h1 align="center">Saifur Rahman Chowdhury</h1>
