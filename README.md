@@ -83,7 +83,7 @@ Deployment (Vercel, Netlify, Render, etc.)
 
 
 
-### GitHub Contributions:
+## ✨ GitHub Contributions ✨
 ![Snake Grid](https://github.com/touhidcodes/contribution-snake/blob/output/grid.svg)
 <!--
 **saifurrahmanctg/saifurrahmanctg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
