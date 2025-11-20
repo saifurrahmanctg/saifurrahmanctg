@@ -77,11 +77,14 @@ Deployment (Vercel, Netlify, Render, etc.)
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=saifurrahmanctg&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=6&theme=tokyonight&hide_border=false&order=2) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saifurrahmanctg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1) | ![GitHub Streak](https://streak-stats.demolab.com?user=saifurrahmanctg&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3) |
 
 
-
 <!--- My Contribution Graph -->
 ## 🙌 My Contributions 🙌
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=saifurrahmanctg&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
+
+
+### GitHub Contributions:
+![Snake Grid](https://github.com/touhidcodes/contribution-snake/blob/output/grid.svg)
 <!--
 **saifurrahmanctg/saifurrahmanctg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
